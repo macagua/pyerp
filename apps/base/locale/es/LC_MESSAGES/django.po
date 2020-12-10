@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-17 15:02-0300\n"
-"PO-Revision-Date: 2019-11-02 18:08-0443\n"
-"Last-Translator: b'admin@pyerp.cl User <admin@pyerp.cl>'\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-12-06 02:45-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Translated-Using: django-rosetta 0.9.3\n"
 
 #: apps/base/forms.py:36 apps/base/models/app.py:11
@@ -80,23 +79,23 @@ msgstr "Usuario"
 
 #: apps/base/models/app.py:12
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: apps/base/models/app.py:13 apps/base/models/product.py:43
 msgid "description"
-msgstr ""
+msgstr "descripción"
 
 #: apps/base/models/app.py:15 apps/base/templates/base/sidebar.html:153
 msgid "Website"
-msgstr ""
+msgstr "Sitio web"
 
 #: apps/base/models/app.py:16
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #: apps/base/models/app.py:17
 msgid "Icon"
-msgstr ""
+msgstr "Icono"
 
 #: apps/base/models/app.py:18 apps/base/templates/base/erp_footer.html:3
 msgid "Version"
@@ -104,46 +103,46 @@ msgstr "Versión"
 
 #: apps/base/models/app.py:19
 msgid "Sequence"
-msgstr ""
+msgstr "Secuencia"
 
 #: apps/base/models/comment.py:13 apps/base/views/comment.py:15
 msgid "Comment"
-msgstr ""
+msgstr "Comentario"
 
 #: apps/base/models/cron.py:26 apps/base/models/log.py:15
 #: apps/base/models/partner.py:28 apps/base/models/product.py:62
 #: apps/base/views/page.py:14 apps/base/views/post.py:14
 msgid "Created on"
-msgstr ""
+msgstr "Creado el"
 
 #: apps/base/models/product.py:37 apps/base/views/product.py:19
 msgid "Code"
-msgstr ""
+msgstr "Código"
 
 #: apps/base/models/product.py:38 apps/base/views/product.py:20
 msgid "Bar Code"
-msgstr ""
+msgstr "Código de barras"
 
 #: apps/base/models/product.py:39 apps/base/views/product.py:26
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 #: apps/base/models/product.py:40
 msgid "cost"
-msgstr ""
+msgstr "costo"
 
 #: apps/base/models/product.py:57 apps/base/models/uom.py:22
 msgid "type"
-msgstr ""
+msgstr "tipo"
 
 #: apps/base/models/tax.py:13 apps/base/views/tax.py:15
 msgid "Amount"
-msgstr ""
+msgstr "Cantidad"
 
 #: apps/base/models/uom.py:20 apps/base/models/uom.py:21
 #: apps/base/views/uom.py:15
 msgid "Ratio"
-msgstr ""
+msgstr "Relación"
 
 #: apps/base/models/usercustom.py:29
 msgid "FEMALE"
@@ -192,37 +191,36 @@ msgstr "Personas"
 
 #: apps/base/models/website_config.py:11
 msgid "Show Blog"
-msgstr ""
+msgstr "Mostrar Blog"
 
 #: apps/base/models/website_config.py:12
 msgid "Show Shop"
-msgstr ""
+msgstr "Mostrar Tienda"
 
 #: apps/base/models/website_config.py:13
 msgid "Show price"
-msgstr ""
+msgstr "Mostrar precio"
 
 #: apps/base/models/website_config.py:14
 msgid "Show chat"
-msgstr ""
+msgstr "Mostrar conversación"
 
 #: apps/base/models/website_config.py:15
 msgid "Under Construction"
-msgstr ""
+msgstr "Bajo construcción"
 
 #: apps/base/models/wpayment.py:13 apps/base/views/wpayment.py:15
-#, fuzzy
 #| msgid "Active"
 msgid "Web Active"
-msgstr "Activo"
+msgstr "Web activa"
 
 #: apps/base/templates/base/dashboard.html:168
 msgid "Exit"
-msgstr ""
+msgstr "Salir"
 
 #: apps/base/templates/base/dashboard.html:173
 msgid "Select close if you want to leave the assignment.?"
-msgstr ""
+msgstr "Seleccione cerrar, si desea dejar la tarea."
 
 #: apps/base/templates/base/dashboard.html:175
 #: apps/base/templates/usercustom/logoutmodal.html:12
@@ -233,36 +231,36 @@ msgstr "Cancelar"
 #: apps/base/templates/base/dashboard.html:176
 #: apps/base/templates/base/navbar.html:35
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 #: apps/base/templates/base/detail.html:7
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: apps/base/templates/base/detail.html:8
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 #: apps/base/templates/base/detail.html:37
 msgid "Are you sure you want to delete the form?"
-msgstr ""
+msgstr "¿Estás seguro de que deseas eliminar el formulario?"
 
 #: apps/base/templates/base/erp_footer.html:6
 msgid "Source Code"
-msgstr ""
+msgstr "Código fuente"
 
 #: apps/base/templates/base/form.html:12
 msgid "Discard"
-msgstr ""
+msgstr "Descartar"
 
 #: apps/base/templates/base/form.html:14
 #: apps/base/templates/usercustom/profile.html:83
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: apps/base/templates/base/list.html:11
 msgid "Create"
-msgstr ""
+msgstr "Crear"
 
 #: apps/base/templates/base/navbar.html:16
 #: apps/base/templates/usercustom/login.html:43
@@ -284,168 +282,165 @@ msgstr "Inicio"
 
 #: apps/base/templates/base/sidebar.html:42
 msgid "Contacts"
-msgstr ""
+msgstr "Contactos"
 
 #: apps/base/templates/base/sidebar.html:50
 msgid "Partners"
-msgstr ""
+msgstr "Socios"
 
 #: apps/base/templates/base/sidebar.html:68
 #: apps/base/templates/base/sidebar.html:76 apps/base/templates/home.html:52
 msgid "Products"
-msgstr ""
+msgstr "Productos"
 
 #: apps/base/templates/base/sidebar.html:83
 msgid "Variants"
-msgstr ""
+msgstr "Variantes"
 
 #: apps/base/templates/base/sidebar.html:90
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #: apps/base/templates/base/sidebar.html:96
 #: apps/base/templates/shop/shop.html:10 apps/base/views/product.py:24
 #: apps/base/views/uom.py:18
 msgid "Category"
-msgstr ""
+msgstr "Categoría"
 
 #: apps/base/templates/base/sidebar.html:102
 msgid "Category UOM"
-msgstr ""
+msgstr "Categoría UOM"
 
 #: apps/base/templates/base/sidebar.html:108
 msgid "Unit of Measurement"
-msgstr ""
+msgstr "Unidad de medida"
 
 #: apps/base/templates/base/sidebar.html:123
 msgid "Location"
-msgstr ""
+msgstr "Ubicación"
 
 #: apps/base/templates/base/sidebar.html:129 apps/base/views/country.py:27
 #: apps/base/views/country.py:42 apps/base/views/country.py:58
 #: apps/base/views/country.py:72
 msgid "Countries"
-msgstr ""
+msgstr "Países"
 
 #: apps/base/templates/base/sidebar.html:133
 msgid "Currencies"
-msgstr ""
+msgstr "Monedas"
 
 #: apps/base/templates/base/sidebar.html:137
 msgid "Taxs"
-msgstr ""
+msgstr "Impuestos"
 
 #: apps/base/templates/base/sidebar.html:161
 msgid "Posts"
-msgstr ""
+msgstr "Publicaciones"
 
 #: apps/base/templates/base/sidebar.html:168
 msgid "Pages"
-msgstr ""
+msgstr "Páginas"
 
 #: apps/base/templates/base/sidebar.html:176
 msgid "Comments"
-msgstr ""
+msgstr "Comentarios"
 
 #: apps/base/templates/base/sidebar.html:183
 msgid "Web Categorys"
-msgstr ""
+msgstr "Categorías Web"
 
 #: apps/base/templates/base/sidebar.html:190
 msgid "Web Parameters"
-msgstr ""
+msgstr "Parámetros de la Web"
 
 #: apps/base/templates/base/sidebar.html:197
 msgid "Metas"
-msgstr ""
+msgstr "Metas"
 
 #: apps/base/templates/base/sidebar.html:205
 msgid "Web Payments"
-msgstr ""
+msgstr "Pagos Web"
 
 #: apps/base/templates/base/sidebar.html:212
 msgid "Faqs"
-msgstr ""
+msgstr "Faqs"
 
 #: apps/base/templates/base/sidebar.html:219
 msgid "Images"
-msgstr ""
+msgstr "Imágenes"
 
 #: apps/base/templates/base/sidebar.html:226
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetas"
 
 #: apps/base/templates/base/sidebar.html:233
 msgid "Web Configurations"
-msgstr ""
+msgstr "Configuraciones Web"
 
 #: apps/base/templates/base/sidebar.html:249
 #: apps/base/templates/base/sidebar.html:252
 msgid "Apps"
-msgstr ""
+msgstr "Aplicaciones"
 
 #: apps/base/templates/base/sidebar.html:255
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: apps/base/templates/base/sidebar.html:260
 msgid "Configuration"
-msgstr ""
+msgstr "Configuración"
 
 #: apps/base/templates/base/sidebar.html:263 apps/base/templates/home.html:38
-#, fuzzy
 #| msgid "User"
 msgid "Users"
-msgstr "Usuario"
+msgstr "Usuarios"
 
 #: apps/base/templates/base/sidebar.html:266
 msgid "Company"
-msgstr ""
+msgstr "Compañía"
 
 #: apps/base/templates/base/sidebar.html:270
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: apps/base/templates/base/sidebar.html:273
-#, fuzzy
 #| msgid "Login"
 msgid "Log"
-msgstr "Inicio de sesión"
+msgstr "Registro"
 
 #: apps/base/templates/base/sidebar.html:276
 msgid "Cron"
-msgstr ""
+msgstr "Cron"
 
 #: apps/base/templates/base/sidebar.html:280
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros"
 
 #: apps/base/templates/base/sidebar.html:283
 msgid "Load Data"
-msgstr ""
+msgstr "Cargar Data"
 
 #: apps/base/templates/home.html:10
 msgid "Customers"
-msgstr ""
+msgstr "Clientes"
 
 #: apps/base/templates/home.html:15 apps/base/templates/home.html:29
 #: apps/base/templates/home.html:43 apps/base/templates/home.html:57
 msgid "More Informations"
-msgstr ""
+msgstr "Más informaciones"
 
 #: apps/base/templates/home.html:24
 msgid "Providers"
-msgstr ""
+msgstr "Proveedores"
 
 #: apps/base/templates/login.html:7
 msgid "ERP in Django"
-msgstr ""
+msgstr "ERP en Django"
 
 #: apps/base/templates/login.html:42
-#, fuzzy
 #| msgid "Log Out"
 msgid "Log in"
-msgstr "Salir"
+msgstr "Iniciar sesión"
 
 #: apps/base/templates/login.html:72
 #: apps/base/templates/usercustom/login.html:7
@@ -458,7 +453,7 @@ msgstr "Inicio de sesión"
 
 #: apps/base/templates/shop/product.html:43
 msgid "Add to cart"
-msgstr ""
+msgstr "Añadir al carro"
 
 #: apps/base/templates/usercustom/login.html:81
 #: apps/base/templates/usercustom/password_reset_form.html:92
@@ -494,15 +489,15 @@ msgstr "Por favor inicie sesión para visitar esta página."
 
 #: apps/base/templates/usercustom/logoutmodal.html:5
 msgid "Are you sure you want to logout?"
-msgstr ""
+msgstr "¿Está seguro que quiere cerrar la sesión?"
 
 #: apps/base/templates/usercustom/logoutmodal.html:10
 msgid "Select logout if you want to leave the session."
-msgstr ""
+msgstr "Seleccione cerrar sesión, si desea salir de la sesión."
 
 #: apps/base/templates/usercustom/logoutmodal.html:13
 msgid "Logout"
-msgstr ""
+msgstr "Cerrar sesión"
 
 #: apps/base/templates/usercustom/password_change_form.html:15
 msgid "Actual Password"
@@ -562,17 +557,16 @@ msgstr "Recortar"
 
 #: apps/base/templatetags/erp_tags.py:37 apps/base/templatetags/erp_tags.py:39
 msgid "Your Company Name"
-msgstr ""
+msgstr "Su nombre de la compañía"
 
 #: apps/base/templatetags/erp_tags.py:67 apps/base/templatetags/erp_tags.py:69
 msgid "Your Company Slogan"
-msgstr ""
+msgstr "Su eslogan de la compañía"
 
 #: apps/base/views/__init__.py:63 apps/base/views/__init__.py:82
-#, fuzzy
 #| msgid "User name"
 msgid "User Name"
-msgstr "Usuario"
+msgstr "Nombre de usuario"
 
 #: apps/base/views/activate.py:45
 msgid ""
@@ -592,7 +586,7 @@ msgstr ""
 
 #: apps/base/views/attribute.py:15
 msgid "Variant"
-msgstr ""
+msgstr "Variante"
 
 #: apps/base/views/avatar.py:55 apps/base/views/profile.py:65
 #, python-format
@@ -601,45 +595,45 @@ msgstr "No se encontró %(verbose_name)s que coincida con la consulta"
 
 #: apps/base/views/company.py:16
 msgid "Street"
-msgstr ""
+msgstr "Calle"
 
 #: apps/base/views/company.py:19
 msgid "Currency"
-msgstr ""
+msgstr "Moneda"
 
 #: apps/base/views/company.py:20
 msgid "Slogan"
-msgstr ""
+msgstr "Eslogan"
 
 #: apps/base/views/company.py:21
 msgid "Postal Code"
-msgstr ""
+msgstr "Código postal"
 
 #: apps/base/views/faq.py:15 apps/base/views/image.py:15
 #: apps/base/views/meta.py:14
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 #: apps/base/views/log.py:14 apps/base/views/product.py:29
 msgid "Created On"
-msgstr ""
+msgstr "Creado el"
 
 #: apps/base/views/log.py:16
 msgid "Note"
-msgstr ""
+msgstr "Nota"
 
 #: apps/base/views/meta.py:13 apps/base/views/page.py:13
 #: apps/base/views/post.py:13
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: apps/base/views/page.py:15 apps/base/views/post.py:15
 msgid "Keywords"
-msgstr ""
+msgstr "Palabras clave"
 
 #: apps/base/views/parameter.py:15 apps/base/views/wparameter.py:15
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: apps/base/views/passwordchange.py:23
 msgid "Your password change was successfully                 processed"
@@ -663,10 +657,10 @@ msgstr ""
 "El enlace de recuperación de contraseña no es válido o ya se ha utilizado."
 
 #: apps/base/views/passwordreset.py:121
-#, fuzzy, python-format
+#, python-format
 #| msgid "%(app_name)s password recovery"
 msgid "%(app_name)s password recovery"
-msgstr "Recuperar contraseña"
+msgstr "Recuperar contraseña %(app_name)s"
 
 #: apps/base/views/passwordreset.py:133
 #, python-format
@@ -683,7 +677,8 @@ msgid ""
 "\n"
 "The %(app_name)s team."
 msgstr ""
-"Recibió este correo electrónico porque solicitó que su contraseña se restableciera a %(app_name)s.\n"
+"Recibió este correo electrónico porque solicitó que su contraseña se "
+"restableciera a %(app_name)s.\n"
 "\n"
 "Vaya al siguiente enlace para recuperar su contraseña:\n"
 "\n"
@@ -712,27 +707,27 @@ msgstr ""
 
 #: apps/base/views/product.py:22
 msgid "UOM"
-msgstr ""
+msgstr "UOM"
 
 #: apps/base/views/product.py:23
 msgid "Tax"
-msgstr ""
+msgstr "Impuesto"
 
 #: apps/base/views/product.py:25
 msgid "Web Category"
-msgstr ""
+msgstr "Categoría Web"
 
 #: apps/base/views/product.py:27
 msgid "Cost"
-msgstr ""
+msgstr "Costo"
 
 #: apps/base/views/product.py:28 apps/base/views/uom.py:17
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: apps/base/views/product.py:30
 msgid "Descriptions"
-msgstr ""
+msgstr "Descripciones"
 
 #: apps/base/views/profile.py:25
 msgid "Your profile was updated successfully"
@@ -786,4 +781,4 @@ msgstr ""
 
 #: apps/base/views/uom.py:16
 msgid "Rouding"
-msgstr ""
+msgstr "Enrutamiento"

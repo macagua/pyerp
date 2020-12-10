@@ -28,15 +28,15 @@ msgstr "Mercadeo"
 
 #: apps/payroll/templates/payroll/menu.html:5
 msgid "Payroll"
-msgstr ""
+msgstr "Nomina"
 
 #: apps/pos/templates/pos/menu.html:6
 msgid "POS"
-msgstr ""
+msgstr "Punto de Venta"
 
 #: apps/stock/templates/stock/menu.html:5
 msgid "Inventary"
-msgstr ""
+msgstr "Inventario"
 
 #: pyerp/settings.py:96
 msgid "We make your Day Easy"
@@ -48,4 +48,4 @@ msgstr "Inglés"
 
 #: pyerp/settings.py:230
 msgid "Spanish"
-msgstr "Esáñol"
+msgstr "Español"
